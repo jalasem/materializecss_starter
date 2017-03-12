@@ -13,7 +13,7 @@ A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ion
 - Hackers (who just like to get up and running as quick as possible)
 
 ## How do I use this?
-Very simple. Just clone this repository like this:
+Very simple. Just clone this repository by typing the command below in your terminal or command prompt(with [git](http://git-scm.com) installed):
 ```
 $ git clone https://github.com/jalasem/materializecss_starter.git project_name
 ```
