@@ -13,7 +13,7 @@ Very simple. Just clone this repository like this:
 ```
 $ git clone https://github.com/jalasem/materializecss_starter.git project_name
 ```
-or download this project [here](./materializeStarter.zip)
+or download this project [here](materializeStarter.zip)
 
 ### Prerequisites
 
