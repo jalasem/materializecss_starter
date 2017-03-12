@@ -6,7 +6,7 @@ A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ion
 **Check demo at [https://materializestarter.stamplayapp.com](https://materializestarter.stamplayapp.com)**
 
 
-## Who is it meant for ?
+## Who is this meant for ?
 - Web Designers and Developers
 - Hybrid app developers
 - Electron app developers (materializecss electron boilerplate coming soon!)
