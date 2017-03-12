@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Change this title to anything else</title>
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -8,24 +9,37 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body class="blue-grey lighten-5">
     <nav class="teal">
         <div class="nav-wrapper container">
+            <a href="#" data-activates="slide-out" class="button-collapse"><i class="icon ion-navicon"></i></a>
             <a href="index.html" class="brand-logo">
-                <i class="icon left ion-heart"></i>
-                Materializecss Starter
+                <i class="icon left ion-heart hide-on-small-only"></i> Materializecss Starter
             </a>
             <ul class="right hide-on-med-and-down">
-                <li><a href="#!">link1</a></li>
-                <li><a href="#!">link2</a></li>
+                <li><a href="https://github.com/jalasem/materializecss_starter" class="waves-effect waves-light" target="_blank"><i class="icon ion-social-github left"></i>Github</a></li>
+                <li><a href="#!" class="waves-effect">link2</a></li>
                 <li><a href="#!">link3</a></li>
                 <li><a href="#!">link4</a></li>
+            </ul>
+            <ul id="slide-out" class="side-nav">
+                <li><a href="https://github.com/jalasem/materializecss_starter"><i class="icon ion-social-github"></i>Github</a></li>
+                <li><a href="#!">Link2</a></li>
+                <li>
+                    <div class="divider"></div>
+                </li>
+                <li><a class="waves-effect" href="#!">Second Link With Waves</a></li>
+                <li>
+                    <div class="divider"></div>
+                </li>
+                <li><a href="#!">Link3</a></li>
             </ul>
         </div>
     </nav>
     <div class="center">
         <h1>Materializecss Starter</h1>
-        <button class="purple btn-large waves-effect animated pulse infinite">Hello Developer! Let's get started</button>
+        <button class="purple btn-large waves-effect animated pulse infinite">Hello Designer! Let's get started</button>
         <button class="btn-floating btn-large waves-effect waves-light pink"><i class="icon ion-android-add"></i></button>
         <button class="btn-floating btn-large waves-effect waves-light pink"><i class="fa fa-minus"></i></button>
     </div>
@@ -34,4 +48,5 @@
     <script src="js/materialize.min.js"></script>
     <script src="js/app.js"></script>
 </body>
+
 </html>

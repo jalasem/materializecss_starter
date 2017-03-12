@@ -1,13 +1,19 @@
 
 # Materializecss Starter
-A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [ionicons](http://ionicons.com), [fontawesome](http://fontawesome.io/) and [Animatecss](https://daneden.github.io/animate.css/)
+A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ionicons](http://ionicons.com), [fontawesome](http://fontawesome.io/) and [Animatecss](https://daneden.github.io/animate.css/)
+
+## Who is it meant for ?
+- Web Designers and Developers
+- Hybrid app developers
+- Electron app developers (materializecss electron boilerplate coming soon!)
+- Hackers (who just like to get up and running as quick as possible)
 
 ## How do I use this?
 Very simple. Just clone this repository like this:
 ```
 $ git clone https://github.com/jalasem/materializecss_starter.git project_name
 ```
-or download this project [here](./materilaizeStarter.zip)
+or download this project [here](./materializeStarter.zip)
 
 ### Prerequisites
 
@@ -19,14 +25,14 @@ or download this project [here](./materilaizeStarter.zip)
 ### Getting Help and Guides
 
 - To get Started using Materializecss, A very good and the only resource I recommend is the documentation provided on [Materializecss website](http://materializecss.com)
-- Get previews and choose the icon of your choice at [ionicons website](http://ionicons.com) and [ionicons official cheatsheet](http://ionicons.com/cheatsheet.html)
+- Get previews and choose the icon of your choice at [ionicons website](http://ionicons.com) and [ionicons official cheat-sheet](http://ionicons.com/cheatsheet.html)
 - [Fontawesome.io](http://fontawesome.io/) is a very good place to check out font-awesome icons and [cheatsheets](http://fontawesome.io/cheatsheet/)
 - See Animatecss( A library for using css animation on our page) demos [here](https://daneden.github.io/animate.css/)
 
 ### Why use Ionicons and Fontawesome in the same Project?
 
 Good Question! Ionicons is a library that offers elegant and brilliant icons but don't have much icons as fontawesome do. So you could choose to use any of the great icons in both ionicons or font-awesome. This gives you more flexibility.
-**Below is a snippet on how to an icon from the ionicon library.**
+**Below is a snippet on how to an icon from the ionicons library.**
 ```
 <i class="icon ion-bookmark"></i>
 ```
