@@ -1,7 +1,9 @@
 
 # Materializecss Starter
+
+A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ionicons](http://ionicons.com), [fontawesome](http://fontawesome.io/) and [Animatecss](https://daneden.github.io/animate.css/).
+
 **Check demo at [https://materializestarter.stamplayapp.com](https://materializestarter.stamplayapp.com)**
-A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ionicons](http://ionicons.com), [fontawesome](http://fontawesome.io/) and [Animatecss](https://daneden.github.io/animate.css/)
 
 
 ## Who is it meant for ?
