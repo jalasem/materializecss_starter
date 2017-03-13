@@ -5,6 +5,8 @@ A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ion
 
 **Check demo at [https://materializestarter.stamplayapp.com](https://materializestarter.stamplayapp.com)**
 
+## What is Materializecss ?
+Materializecss is a modern responsive front-end framework based on Material Design.
 
 ## Who is this meant for ?
 - Web Designers and Developers
@@ -31,7 +33,7 @@ or download this project [here](materializeStarter.zip)
 - To get Started using Materializecss, A very good and the only resource I recommend is the documentation provided on [Materializecss website](http://materializecss.com)
 - Get previews and choose the icon of your choice at [ionicons website](http://ionicons.com) and [ionicons official cheat-sheet](http://ionicons.com/cheatsheet.html)
 - [Fontawesome.io](http://fontawesome.io/) is a very good place to check out font-awesome icons and [cheatsheets](http://fontawesome.io/cheatsheet/)
-- See Animatecss( A library for using css animation on our page) demos [here](https://daneden.github.io/animate.css/)
+- See Animatecss( A library for using css animation on our page) demos [here](https://daneden.github.io/animate.css/) or Animatecss [github repo](http://github.com/daneden/animate.css)
 
 ### Why use Ionicons and Fontawesome in the same Project?
 
@@ -48,6 +50,7 @@ Good Question! Ionicons is a library that offers elegant and brilliant icons but
 ## Contributing
 I will love your contributions on this project. Ranging from typos to bug fixes and even sample pages.
 **To contribute**
+
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -m 'Add some feature'`
@@ -56,10 +59,17 @@ I will love your contributions on this project. Ranging from typos to bug fixes 
 **After your pull request is merged**, you can safely delete your branch.
 
 ### Suggestions
-Yeah! Let's discuss it. Send an e-mail to Ajala Abdul-Samii Olalekan at kgasta@gmail.com by shooting me an email at  or create an issue .
+Yeah! Let's discuss it. Send an e-mail to Ajala Abdul-Samii Olalekan at kgasta@gmail.com or create an issue .
 
 ## Versioning
 I will try my best to keep this project updated with the latest versions of Materializecss and its dependencies, fontawesome, ionicons and Animatecss.
+
+Here is a list of all I used and their versions:
+- Materializecss : 0.98.0
+- Jquery: 2.1.1
+- Ionicons: 2.0.1
+- font-awesome: 4.7.0
+- Animatecss (based on the latest commit from @daneden github repo)
 
 ## Author
 
