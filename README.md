@@ -1,4 +1,3 @@
-![](https://cloud.githubusercontent.com/assets/11811904/23846552/3dc3b60c-07ce-11e7-9c4e-27f2f7bef2ee.png)
 # Materializecss Starter
 
 A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ionicons](http://ionicons.com), [fontawesome](http://fontawesome.io/) and [Animatecss](https://daneden.github.io/animate.css/).
