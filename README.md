@@ -64,7 +64,7 @@ Yeah! Let's discuss it. Send an e-mail to Ajala Abdul-Samii Olalekan at kgasta@g
 I will try my best to keep this project updated with the latest versions of Materializecss and its dependencies, fontawesome, ionicons and Animatecss.
 
 Here is a list of all I used and their versions:
-- Materializecss : 0.98.0
+- Materializecss : 0.98.1
 - Jquery: 2.1.1
 - Ionicons: 2.0.1
 - font-awesome: 4.7.0
