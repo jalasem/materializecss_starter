@@ -4,7 +4,7 @@
 
 A Starter Boilerplate for [Materializecss](http://materializecss.com) with  [Ionicons](http://ionicons.com), [fontawesome](http://fontawesome.io/) and [Animatecss](https://daneden.github.io/animate.css/).
 
-**Check demo at [https://materializestarter.stamplayapp.com](https://materializestarter.stamplayapp.com)**
+**Check demo at [https://abdulsamii.com/materializecss_starter/](https://abdulsamii.com/materializecss_starter/)**
 
 ## What is Materializecss ?
 Materializecss is a modern responsive front-end framework based on Material Design.
