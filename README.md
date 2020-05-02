@@ -20,7 +20,6 @@ Very simple. Just clone this repository by typing the command below in your term
 ```
 $ git clone https://github.com/jalasem/materializecss_starter.git project_name
 ```
-or download this project like this ![download with the clone or download button](https://cloud.githubusercontent.com/assets/11811904/23846552/3dc3b60c-07ce-11e7-9c4e-27f2f7bef2ee.png)
 
 ### Prerequisites
 
